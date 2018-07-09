@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GerenciadorPedidos", "GerenciadorPedidos\GerenciadorPedidos.csproj", "{319AB682-0B37-4D72-93E0-CA57D5A52549}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{319AB682-0B37-4D72-93E0-CA57D5A52549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{319AB682-0B37-4D72-93E0-CA57D5A52549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{319AB682-0B37-4D72-93E0-CA57D5A52549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{319AB682-0B37-4D72-93E0-CA57D5A52549}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {178DED82-26FD-4122-A60A-6B3E769470F0}
+	EndGlobalSection
+EndGlobal
